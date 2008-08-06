@@ -1,0 +1,677 @@
+# Extended Options for WordPress
+# Copyright (C) 2008 Scott Allan Wallick
+# This file is part of Easy Contact.
+# Easy Contact is free software: you can redistribute it and/or
+# modify it under the terms of the GNU General Public License as
+# published by the Free Software Foundation, either version 3 of
+# the License, or (at your option) any later version.
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/extended-options\n"
+"POT-Creation-Date: 2008-08-06 13:30+0000\n"
+"PO-Revision-Date: 2008-08-06 13:30+0000\n"
+"Last-Translator: Scott Allan Wallick <s@plaintxt.org>\n"
+"Language-Team: Scott Allan Wallick <s@plaintxt.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: exops-menu.php:33
+msgid "PayPal: The safer, easier way to donate!"
+msgstr ""
+
+#: exops-menu.php:34
+msgid "Donate with PayPal"
+msgstr ""
+
+#: exops-menu.php:45
+msgid "ACCESS DENIED: Your don't have permission to do this."
+msgstr ""
+
+#: exops-menu.php:101
+msgid "Settings saved."
+msgstr ""
+
+#: exops-menu.php:108 exops.php:527
+msgid "Extended Options"
+msgstr ""
+
+#: exops-menu.php:110
+msgid ""
+"Thank you for using this <a href=\"http://www.plaintxt.org/\" title="
+"\"plaintxt.org\">plaintxt.org</a> plugin. When deactivating this plugin, its "
+"settings will be permanently deleted from you database."
+msgstr ""
+
+#: exops-menu.php:113 exops-menu.php:115
+msgid "General Meta Links"
+msgstr ""
+
+#: exops-menu.php:114
+msgid ""
+"These meta links add semantic links and accessibility for some browsers/"
+"spiders."
+msgstr ""
+
+#: exops-menu.php:117
+msgid "Archives Meta"
+msgstr ""
+
+#: exops-menu.php:120
+msgid "Archive Meta Links"
+msgstr ""
+
+#: exops-menu.php:122 exops-menu.php:143 exops-menu.php:160 exops-menu.php:182
+#: exops-menu.php:217 exops-menu.php:263 exops-menu.php:289 exops-menu.php:347
+#: exops-menu.php:361 exops-menu.php:375 exops-menu.php:389 exops-menu.php:403
+#: exops-menu.php:417 exops-menu.php:431 exops-menu.php:445 exops-menu.php:463
+#: exops-menu.php:476 exops-menu.php:489 exops-menu.php:502 exops-menu.php:516
+#: exops-menu.php:530 exops-menu.php:544 exops-menu.php:561 exops-menu.php:575
+#: exops-menu.php:589
+msgid "Disabled"
+msgstr ""
+
+#: exops-menu.php:123 exops-menu.php:144 exops-menu.php:218 exops-menu.php:264
+#: exops-menu.php:290 exops-menu.php:464 exops-menu.php:477 exops-menu.php:490
+#: exops-menu.php:503 exops-menu.php:517 exops-menu.php:531 exops-menu.php:545
+#: exops-menu.php:562 exops-menu.php:576 exops-menu.php:590
+msgid "Enabled"
+msgstr ""
+
+#: exops-menu.php:125
+msgid "Generate by"
+msgstr ""
+
+#: exops-menu.php:127
+msgid "post"
+msgstr ""
+
+#: exops-menu.php:128
+msgid "day"
+msgstr ""
+
+#: exops-menu.php:129
+msgid "week"
+msgstr ""
+
+#: exops-menu.php:130
+msgid "month"
+msgstr ""
+
+#: exops-menu.php:131
+msgid "year"
+msgstr ""
+
+#: exops-menu.php:133
+msgid "and produce"
+msgstr ""
+
+#: exops-menu.php:133
+msgid "archive meta links."
+msgstr ""
+
+#: exops-menu.php:138
+msgid "Relationship Meta"
+msgstr ""
+
+#: exops-menu.php:141
+msgid "Relationship Meta Links"
+msgstr ""
+
+#: exops-menu.php:146
+msgid ""
+"Relationship meta links include <code>next</code>, <code>prev</code>, "
+"<code>first</code>, <code>last</code>, <code>parent</code>, and <code>start</"
+"code>."
+msgstr ""
+
+#: exops-menu.php:151
+msgid "Favicon Meta Links"
+msgstr ""
+
+#: exops-menu.php:152
+msgid ""
+"Favicons are small icons that are displayed in the address bar, in "
+"bookmarks, and/or in a tab interface."
+msgstr ""
+
+#: exops-menu.php:153
+msgid "Favicon  Meta Links"
+msgstr ""
+
+#: exops-menu.php:155
+msgid "Blog Favicon"
+msgstr ""
+
+#: exops-menu.php:158
+msgid "Blog Favicon Meta Link"
+msgstr ""
+
+#: exops-menu.php:161 exops-menu.php:183
+msgid "Encoded embeded favicon"
+msgstr ""
+
+#: exops-menu.php:162
+msgid "Favicon in root directory"
+msgstr ""
+
+#: exops-menu.php:166
+#, php-format
+msgid ""
+"<p>Current blog favicon is: <img src=\"%s/favicon.ico\" alt=\"[Blog favicon]"
+"\" /></p>"
+msgstr ""
+
+#: exops-menu.php:170
+#, php-format
+msgid ""
+"<label for=\"meta_favicon_base64\">Your blog favicon</label>, the <a href="
+"\"http://www.motobit.com/util/base64-decoder-encoder.asp\" title=\"Base64 "
+"Encoder Online\" rel=\"external\">base64</a> string provided below: <img src="
+"\"data:application/octet-stream;base64,%s\" alt=\"[Save to preview]\" />"
+msgstr ""
+
+#: exops-menu.php:177
+msgid "Dashboard Favicon"
+msgstr ""
+
+#: exops-menu.php:180
+msgid "WordPress Dashboard Favicon Meta Link"
+msgstr ""
+
+#: exops-menu.php:184
+msgid "Favicon in admin directory"
+msgstr ""
+
+#: exops-menu.php:185
+msgid "WordPress.com favicon"
+msgstr ""
+
+#: exops-menu.php:186
+msgid "WordPress.org favicon"
+msgstr ""
+
+#: exops-menu.php:192
+#, php-format
+msgid ""
+"<p>Current dashboard favicon is: <img src=\"%s/wp-content/plugins/extended-"
+"options/icons/wp-com_favicon.ico\" alt=\"[Dashboard favicon]\" /></p>"
+msgstr ""
+
+#: exops-menu.php:194
+#, php-format
+msgid ""
+"<p>Current dashboard favicon is: <img src=\"%s/wp-content/plugins/extended-"
+"options/icons/wp-org_favicon.ico\" alt=\"[Dashboard favicon]\" /></p>"
+msgstr ""
+
+#: exops-menu.php:196
+#, php-format
+msgid ""
+"<p>Current dashboard favicon is: <img src=\"%s/wp-admin/favicon.ico\" alt="
+"\"[Dashboard favicon]\" /></p>"
+msgstr ""
+
+#: exops-menu.php:200
+#, php-format
+msgid ""
+"<label for=\"tweak_admin_favicon_base64\">Your dashboard favicon</label>, "
+"the <a href=\"http://www.motobit.com/util/base64-decoder-encoder.asp\" title="
+"\"Base64 Encoder Online\" rel=\"external\">base64</a> string provided below: "
+"<img src=\"data:application/octet-stream;base64,%s\" alt=\"[Save to preview]"
+"\" />"
+msgstr ""
+
+#: exops-menu.php:207 exops-menu.php:210 exops-menu.php:215
+msgid "OpenID Meta Links"
+msgstr ""
+
+#: exops-menu.php:208
+msgid ""
+"<a href=\"http://openid.net/\" title=\"OpenID\" rel=\"external\">OpenID</a> "
+"is an easy way to use a single digital identity, available from services "
+"like <a href=\"http://claimid.com/\" title=\"ClaimID is the free, easy way"
+"\r\n"
+"to manage your online identity\">ClaimID</a> or <a href=\"https://pip."
+"verisignlabs.com/\" title=\"Verisign Personal Information Provider"
+"\">Verisign <abbr title=\"Personal Information Provider\">PIP</abbr></a>."
+msgstr ""
+
+#: exops-menu.php:212
+msgid "OpenID"
+msgstr ""
+
+#: exops-menu.php:224
+msgid "Server <abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+msgstr ""
+
+#: exops-menu.php:227
+msgid "OpenID Server URI"
+msgstr ""
+
+#: exops-menu.php:229
+msgid ""
+"Also refered to as the provider <abbr title=\"Uniform Resource Identifier"
+"\">URI</abbr>."
+msgstr ""
+
+#: exops-menu.php:234
+msgid "Delegate <abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+msgstr ""
+
+#: exops-menu.php:237
+msgid "OpenID Delegate URI"
+msgstr ""
+
+#: exops-menu.php:239
+msgid ""
+"Also refered to as the local ID <abbr title=\"Uniform Resource Identifier"
+"\">URI</abbr>."
+msgstr ""
+
+#: exops-menu.php:244
+msgid ""
+"Yadis/<abbr title=\"eXtensible Resource Descriptor Sequence\">XRDS</abbr> "
+"<abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+msgstr ""
+
+#: exops-menu.php:247
+msgid "OpenID Yadis/XRDS URI"
+msgstr ""
+
+#: exops-menu.php:249
+msgid ""
+"Necessary for Yadis/<abbr title=\"Extensible Resource Identifier\">XRI</"
+"abbr> discovery (optional)."
+msgstr ""
+
+#: exops-menu.php:254 exops-menu.php:261
+msgid "MicroID Meta Link"
+msgstr ""
+
+#: exops-menu.php:255
+msgid ""
+"<a href=\"http://microid.org/\" title=\"MicroID\">MicroID</a> is a "
+"lightweight identity for the Web, enabling anyone to claim verifiable "
+"ownership of content on the Web."
+msgstr ""
+
+#: exops-menu.php:256
+msgid "MicroID Meta Links"
+msgstr ""
+
+#: exops-menu.php:258
+msgid "MicroID"
+msgstr ""
+
+#: exops-menu.php:270
+msgid "MicroID <abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+msgstr ""
+
+#: exops-menu.php:273
+msgid "MicroID Identity URI"
+msgstr ""
+
+#: exops-menu.php:275
+msgid ""
+"Your MicroID is a combination of this blog's <abbr title=\"Uniform Resource "
+"Identifier\">URI</abbr> and this e-mail address."
+msgstr ""
+
+#: exops-menu.php:280 exops-menu.php:282 exops-menu.php:287
+msgid "Geo Tag Meta Links"
+msgstr ""
+
+#: exops-menu.php:281
+msgid "Geotagging adds geographical identification information to your blog."
+msgstr ""
+
+#: exops-menu.php:284
+msgid "Geo Tags"
+msgstr ""
+
+#: exops-menu.php:292
+msgid ""
+"If enabled, geo meta tags will only be generated for data as provided below, "
+"i.e., the following fields are optional."
+msgstr ""
+
+#: exops-menu.php:297
+msgid "Region"
+msgstr ""
+
+#: exops-menu.php:300
+msgid "Geo Tag Region Code"
+msgstr ""
+
+#: exops-menu.php:301
+msgid "Country code:"
+msgstr ""
+
+#: exops-menu.php:302
+msgid "Region code:"
+msgstr ""
+
+#: exops-menu.php:303
+msgid ""
+"Your country subdivision code, <a href=\"http://geotags.com/iso3166/"
+"countries.html\">available here</a>."
+msgstr ""
+
+#: exops-menu.php:308
+msgid "Placename"
+msgstr ""
+
+#: exops-menu.php:311
+msgid "Geo Tag Placename"
+msgstr ""
+
+#: exops-menu.php:313
+msgid ""
+"Usually your city/place name, <a href=\"http://www.getty.edu/research/"
+"conducting_research/vocabularies/tgn/\">available here</a>."
+msgstr ""
+
+#: exops-menu.php:318
+msgid "Latitude"
+msgstr ""
+
+#: exops-menu.php:321
+msgid "Geo Tag Latitude"
+msgstr ""
+
+#: exops-menu.php:323
+msgid "Latitude is given in degrees of arc relative to the Equator."
+msgstr ""
+
+#: exops-menu.php:328
+msgid "Longitude"
+msgstr ""
+
+#: exops-menu.php:331
+msgid "Geo Tag Longitude"
+msgstr ""
+
+#: exops-menu.php:333
+msgid ""
+"Longitude is given in degrees of arc relative to the Greenwich Meridian."
+msgstr ""
+
+#: exops-menu.php:338 exops-menu.php:340
+msgid "Robot Meta Links"
+msgstr ""
+
+#: exops-menu.php:339
+msgid ""
+"<a href=\"http://www.robotstxt.org/meta.html\">Robots meta</a> tell robots "
+"(spiders) not to index content of a page and/or not to follow links on a "
+"page. If an existing <code>robots.txt</code> allows access to a specific "
+"page with a restricting robots meta link, the robots meta link is used. A "
+"page without a robots meta link is the equivalent of <code>follow, index</"
+"code>."
+msgstr ""
+
+#: exops-menu.php:342
+msgid "404 Results"
+msgstr ""
+
+#: exops-menu.php:345
+msgid "404 Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:348 exops-menu.php:362 exops-menu.php:376 exops-menu.php:390
+#: exops-menu.php:404 exops-menu.php:418 exops-menu.php:432 exops-menu.php:446
+msgid "index, nofollow"
+msgstr ""
+
+#: exops-menu.php:349 exops-menu.php:363 exops-menu.php:377 exops-menu.php:391
+#: exops-menu.php:405 exops-menu.php:419 exops-menu.php:433 exops-menu.php:447
+msgid "noindex, follow"
+msgstr ""
+
+#: exops-menu.php:350 exops-menu.php:364 exops-menu.php:378 exops-menu.php:392
+#: exops-menu.php:406 exops-menu.php:420 exops-menu.php:434 exops-menu.php:448
+msgid "noindex, nofollow"
+msgstr ""
+
+#: exops-menu.php:356
+msgid "Author Archives"
+msgstr ""
+
+#: exops-menu.php:359
+msgid "Author Archives Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:370
+msgid "Category Archives"
+msgstr ""
+
+#: exops-menu.php:373
+msgid "Category Archives Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:384
+msgid "Dated Archives"
+msgstr ""
+
+#: exops-menu.php:387
+msgid "Date Archives Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:398
+msgid "Search Results"
+msgstr ""
+
+#: exops-menu.php:401
+msgid "Search Results Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:412
+msgid "Tag Archives"
+msgstr ""
+
+#: exops-menu.php:415
+msgid "Tag Archives Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:426
+msgid "Admin Dashboard"
+msgstr ""
+
+#: exops-menu.php:429
+msgid "WordPress Dashboard Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:440
+msgid "Admin Login &amp; Registration"
+msgstr ""
+
+#: exops-menu.php:443
+msgid "WordPress Login and Registration Robots Meta Link"
+msgstr ""
+
+#: exops-menu.php:454 exops-menu.php:456
+msgid "Tweak Options"
+msgstr ""
+
+#: exops-menu.php:455
+msgid ""
+"These are adjustments that can be made to core WordPress settings, which "
+"will alter certain functions of WordPress. None of these can damage your "
+"WordPress installation."
+msgstr ""
+
+#: exops-menu.php:458
+msgid "Redirect Author Archives"
+msgstr ""
+
+#: exops-menu.php:461
+msgid "Redirect (301) Author Archives"
+msgstr ""
+
+#: exops-menu.php:466
+msgid ""
+"Enabling sends 301 (moved permanently) headers when a page archive is loaded "
+"and redirect to the home page."
+msgstr ""
+
+#: exops-menu.php:471
+msgid "Send 404 Headers"
+msgstr ""
+
+#: exops-menu.php:474
+msgid "Send Not Found (404) Headers"
+msgstr ""
+
+#: exops-menu.php:479
+msgid ""
+"Enabling sends 404 (not found) headers when a 404 error occurs, e.g., when "
+"the theme file <code>404.php</code> is used."
+msgstr ""
+
+#: exops-menu.php:484
+msgid "Enforce <code>www.</code> Preference"
+msgstr ""
+
+#: exops-menu.php:487
+msgid "Enforce URL as in Blog Settings"
+msgstr ""
+
+#: exops-menu.php:492
+msgid ""
+"Enabling enforces the blog <abbr title=\"Uniform Resource Locator\">URL</"
+"abbr> as in your settings. If it does not include <code>www.</code>, then "
+"the <code>www.</code> <abbr title=\"Uniform Resource Locator\">URL</abbr> "
+"will redirect to your set blog URL."
+msgstr ""
+
+#: exops-menu.php:497
+msgid "Atom <abbr title=\"Application Program Interface\">API</abbr> Meta"
+msgstr ""
+
+#: exops-menu.php:500
+msgid "Atom API Meta Link"
+msgstr ""
+
+#: exops-menu.php:505
+#, php-format
+msgid ""
+"Enabling inserts the discovery link for the Atom <abbr title=\"Application "
+"Program Interface\">API</abbr> publishing protocol. You also have to enable "
+"this <abbr title=\"Application Program Interface\">API</abbr> in the <a href="
+"\"%s\">Writing</a> section."
+msgstr ""
+
+#: exops-menu.php:511
+msgid "<abbr title=\"Really Simple Discoverability\">RSD</abbr> Meta"
+msgstr ""
+
+#: exops-menu.php:514
+msgid "RSD Meta Link"
+msgstr ""
+
+#: exops-menu.php:519
+#, php-format
+msgid ""
+"Enabling inserts the discovery link for the <abbr title=\"Really Simple "
+"Discoverability\">RSD</abbr> <abbr title=\"XML-RPC\">XML-RPC</abbr> "
+"protocol. You also have to enable <abbr title=\"XML-RPC\">XML-RPC</abbr> "
+"access in the <a href=\"%s\">Writing</a> section."
+msgstr ""
+
+#: exops-menu.php:525
+msgid "<abbr title=\"Windows Live Writer\">WLW</abbr> Manifest Meta"
+msgstr ""
+
+#: exops-menu.php:528
+msgid "Windows Live Writer Meta Link"
+msgstr ""
+
+#: exops-menu.php:533
+#, php-format
+msgid ""
+"Enabling inserts the discovery link for the Windows Live Writer publishing "
+"protocol. You also have to enable <abbr title=\"XML-RPC\">XML-RPC</abbr> "
+"access in the <a href=\"%s\">Writing</a> section."
+msgstr ""
+
+#: exops-menu.php:539
+msgid "WordPress Generator Meta"
+msgstr ""
+
+#: exops-menu.php:542
+msgid "WordPress Generator Meta Link"
+msgstr ""
+
+#: exops-menu.php:547
+msgid ""
+"Enabling inserts a WordPress-generated meta link containing the current "
+"WordPress version number and is publicly viewable."
+msgstr ""
+
+#: exops-menu.php:552 exops-menu.php:554
+msgid "Content Add-In Options"
+msgstr ""
+
+#: exops-menu.php:553
+msgid ""
+"You may enable this to add content via hooks found in (properly developed) "
+"themes."
+msgstr ""
+
+#: exops-menu.php:556
+msgid "Meta Add-In"
+msgstr ""
+
+#: exops-menu.php:559
+msgid "Meta Add-In Content"
+msgstr ""
+
+#: exops-menu.php:564
+msgid ""
+"Meta add-in is inserted via <code>wp_head()</code> in <code>header.php</"
+"code>."
+msgstr ""
+
+#: exops-menu.php:570
+msgid "Comments Add-In"
+msgstr ""
+
+#: exops-menu.php:573
+msgid "Comments Add-In Content"
+msgstr ""
+
+#: exops-menu.php:578
+msgid ""
+"Comment add-in is inserted via <code>do_action('comment_form')</code> in "
+"<code>comments.php</code>."
+msgstr ""
+
+#: exops-menu.php:584
+msgid "Footer Add-In"
+msgstr ""
+
+#: exops-menu.php:587
+msgid "Footer Add-In Content"
+msgstr ""
+
+#: exops-menu.php:592
+msgid ""
+"Footer add-in is inserted via <code>wp_footer()</code> in <code>footer.php</"
+"code>."
+msgstr ""
+
+#: exops-menu.php:600
+msgid "Save Changes"
+msgstr ""
+
+#: exops.php:439
+msgid ""
+"By submitting a comment, you hereby grant perpetual license to reproduce "
+"your words, name, and/or Web site in attribution."
+msgstr ""
+
+#: exops.php:527
+msgid "Extended"
+msgstr ""
