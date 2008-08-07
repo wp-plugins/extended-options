@@ -12,8 +12,6 @@ Extended Options keeps meta data and certain WordPress tweaks persistent regardl
 
 Extended Options manages certain meta data and content add-ins from within the WordPress dashboard. This plugin adds the capacity for meta data and content added to the footer and `head` areas to be kept consistent regardless of a theme change or upgrade.
 
-Extended Options isn't concerned with search-engine optimization necessarily, but rather it enables certain functionality and enhances the visibility and accessibility of through meta information, e.g., MicroID meta verification, OpenID service, basic geographic tags, relationship meta links, and much more.
-
 Extended Options is for WordPress 2.6.x and, more specifically, manages following meta links and tweaks:
 
 * Archive meta links
@@ -32,7 +30,7 @@ Extended Options is for WordPress 2.6.x and, more specifically, manages followin
 * General comment form add-in content
 * General footer add-in content
 
-While this collection of meta data and tweaks appear random, these are specific changes I grew tired of changing whenever I activated a different theme or upgraded an old one. I needed a plugin to address these specific needs that didn't overlap significantly with other plugins I used. Extended Options allows me to control these options quickly and efficiently without editing theme fiiles. So I'm sharing it with you.
+While this collection of meta data and tweaks appear random, these are specific modifications I grew tired of making whenever I activated a different theme or upgraded an old one. I needed a plugin to manage these needs that didn't overlap significantly with other plugins I used.
 
 Special thanks to some awesome code integrated (and possibly modified) with Extended Options.
 
@@ -56,7 +54,9 @@ In other words, just upload the `/extended-options/` folder and its contents to 
 
 == Use ==
 
-Access the Extended Options menu from *Dashboard > Settings > Extended* to set the plugin options. To use this plugin, you **do not** need to edit any theme files or WordPress core files. Everything is done through the *Extended* menu. However, Extended Options does require the following hooks/actions to be present in the certain files of your active theme.
+Access the Extended Options menu from *Dashboard > Settings > Extended* to set the plugin options. To use this plugin, you do not need to edit any theme files or WordPress core files.
+
+Everything this plugin does happens based on settings in the *Extended* menu. Extended Options does require, however, the following hooks/actions to be present in the certain files of your active theme.
 
 * `wp_head()` should be present in your `header.php` theme file.
 * `wp_footer()` should be present in your `footer.php` theme file.
