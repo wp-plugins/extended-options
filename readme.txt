@@ -3,7 +3,7 @@ CONTRIBUTORS: scottwallick
 DONATE LINK: http://www.plaintxt.org/about/#donate
 TAGS: archive meta, atom, discovery meta, generator, geo tags, microid, openid, persistence, themes, header.php, footer.php, comments.php, relationship meta, robots, rsd, wlw, www, xrds, yardis
 REQUIRES AT LEAST: 2.5
-TESTED UP TO: 2.6
+TESTED UP TO: 2.6.1
 STABLE TAG: 0.1
 
 Extended Options keeps meta data and certain WordPress tweaks persistent regardless of the active theme without editing any theme files.
