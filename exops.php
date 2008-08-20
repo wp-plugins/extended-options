@@ -5,7 +5,7 @@ PLUGIN URI: http://www.plaintxt.org/experiments/extended-options/
 DESCRIPTION: Extended Options keeps meta data and certain WordPress tweaks consistent regardless of the active theme without editing any theme files. A plaintxt.org experiment for WordPress.
 AUTHOR: Scott Allan Wallick
 AUTHOR URI: http://scottwallick.com/
-VERSION: 0.1 &beta;
+VERSION: 0.1.1 &beta;
 */
 
 /*

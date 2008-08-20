@@ -298,8 +298,8 @@ to manage your online identity">ClaimID</a> or <a href="https://pip.verisignlabs
 				<td>
 					<fieldset>
 						<legend class="hidden"><?php _e( 'Geo Tag Region Code', 'exops' ) ?></legend>
-						<label for="meta_geotags_country"><?php _e( 'Country code:', 'exops' ) ?></label><input id="meta_geotags_country" name="meta_geotags_country" type="text" value="<?php echo attribute_escape(get_option('exop_meta_geotags_country')); ?>" size="3" maxlength="2" />
-						<label for="meta_geotags_region"><?php _e( 'Region code:', 'exops' ) ?></label><input id="meta_geotags_region" name="meta_geotags_region" type="text" value="<?php echo attribute_escape(get_option('exop_meta_geotags_region')); ?>" size="3" maxlength="2" /><br />
+						<label for="meta_geotags_country"><?php _e( 'Country code:', 'exops' ) ?></label><input id="meta_geotags_country" name="meta_geotags_country" type="text" value="<?php echo attribute_escape(get_option('exop_meta_geotags_country')); ?>" size="5" maxlength="4" />
+						<label for="meta_geotags_region"><?php _e( 'Region code:', 'exops' ) ?></label><input id="meta_geotags_region" name="meta_geotags_region" type="text" value="<?php echo attribute_escape(get_option('exop_meta_geotags_region')); ?>" size="5" maxlength="4" /><br />
 						<?php _e( 'Your country subdivision code, <a href="http://geotags.com/iso3166/countries.html">available here</a>.', 'exops' ) ?>
 					</fieldset>
 				</td>
