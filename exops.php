@@ -5,7 +5,7 @@ PLUGIN URI: http://www.plaintxt.org/experiments/extended-options/
 DESCRIPTION: Extended Options keeps meta data and certain WordPress tweaks consistent regardless of the active theme without editing any theme files. A plaintxt.org experiment for WordPress.
 AUTHOR: Scott Allan Wallick
 AUTHOR URI: http://scottwallick.com/
-VERSION: 0.1.1 &beta;
+VERSION: 0.1.2 &beta;
 */
 
 /*
@@ -211,8 +211,8 @@ if ( get_option('exop_tweak_atom_api_link') > 0 ) {
 if ( get_option('exop_meta_openid_link') > 0 ) {
 	// Function to produce our two/three OpenID meta links
 	function exop_meta_openid() {
-		echo "\t" . '<link rel="openid2.provider openid.server" href="' . attribute_escape(get_option('exop_meta_openid_server_uri')) . '" />' . "\n";
-		echo "\t" . '<link rel="openid2.local_id openid.delegate" href="' . attribute_escape(get_option('exop_meta_openid_delegate_uri')) . '" />' . "\n";
+		echo "\t" . '<link rel="openid.server" href="' . attribute_escape(get_option('exop_meta_openid_server_uri')) . '" />' . "\n";
+		echo "\t" . '<link rel="openid.delegate" href="' . attribute_escape(get_option('exop_meta_openid_delegate_uri')) . '" />' . "\n";
 		// Get variable for multiple (potential) uses
 		$yadisuri = attribute_escape(get_option('exop_meta_openid_yadis_uri'));
 		// If the user has provided a Yadis URI, create its meta link
