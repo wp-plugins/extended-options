@@ -1,5 +1,5 @@
 === Extended Options ===
-CONTRIBUTORS: scottwallick
+CONTRIBUTORS: plaintxt.org
 DONATE LINK: http://www.plaintxt.org/about/#donate
 TAGS: archive meta, atom, discovery meta, generator, geo tags, microid, openid, persistence, themes, header.php, footer.php, comments.php, relationship meta, robots, rsd, wlw, www, xrds, yardis
 REQUIRES AT LEAST: 2.5
